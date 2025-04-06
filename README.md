@@ -1,2 +1,2 @@
 # mmmut
-author - divyanshi
+author - divyanshi pal
